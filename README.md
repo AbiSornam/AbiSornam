@@ -31,7 +31,7 @@
 
 ## 🏆 Achievements
 - ✅ Completed **4 backend projects** (System View API, JSON API Server, Website Speed Test Tool, File Analysis Tool)  
-- 🧩 Solved **100+ coding problems** on LeetCode & GeeksforGeeks  
+- 🧩 Solved **300+ coding problems** on LeetCode & GeeksforGeeks  
 - ⚡ Active participant in **Blind Coding** & **Dual Debug** contests  
 
 ---
