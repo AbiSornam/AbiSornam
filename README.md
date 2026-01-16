@@ -64,7 +64,6 @@
 <p align="center">
   <a href="https://github.com/AbiSornam"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
   <a href="https://www.linkedin.com/in/abi-sornam-25b13b293"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://leetcode.com/u/AbiSornam/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/FFD700/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="45"/></a>
 </p>
 
 ---
